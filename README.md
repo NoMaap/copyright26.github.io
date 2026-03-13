@@ -7,7 +7,8 @@ Contact Us
 [Message us on Telegram](https://t.me/@nomaap)
 
 FAQ & Troubleshooting
-QQ: How do I use the No Maap app?
+
+Q: How do I use the No Maap app?
 
 A: Follow the in-app instructions to navigate maps, find locations, or use any core features.
 
